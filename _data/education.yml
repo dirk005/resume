@@ -1,6 +1,13 @@
 # Degree
-- degree: Computer Science, B.S
-  uni: University of South Florida
-  year: 2010 &mdash; 2014
+- degree: Basic Programing
+  uni: CTI Education Group
+  year: 2009 &mdash; 2010
   # awards: 
-  summary: Final project was the creation of a web portal that identified the number of available parking spots in the various parking structures on campus.
+  summary: Leared fundametals of programing and C# as main programing language.
+  
+  # Degree
+- degree: Web Development
+  uni: Web Design Academy
+  year: 2017
+  # awards: 
+  summary: Leared web design.
