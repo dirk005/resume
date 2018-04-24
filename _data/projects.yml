@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# Focus Web Design
+- project: Focus Web Design
+  role: Designed and Developed
+  duration: 2017
+  url: "https://focuswebdesign.co.za"
+  description: Created A website Focus Web Design <a href="https://focuswebdesign.co.za">focuswebdesign.co.za</a> and made logo..
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# RTWay
+- project: RTWay
+  role: Designed and Developed 
+  duration: 2017
+  url: "https://trway.co.za"
+  description:Created A website RTWay <a href="https://rtway.co.za">rtway.co.za</a> and made logo.
+  
+# New Seal
+- project: New Seal
+  role: Designed and Developed 
+  duration: 2018
+  url: "https://newseal.co.za"
+  description:Created A website New Seal <a href="https://newseal.co.za">newseal.co.za</a> and made logo.
