@@ -1,13 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# New Seal
-- project: New Blindz
-  role: Designed and Developed 
-  duration: 2018
-  url: "https://newblindz.co.za"
-  description: Created A website New newblindz <a href="http://newblindz.co.za">newblindz.co.za</a>.
-
 # Focus Web Design
 - project: Focus Web Design
   role: Designed and Developed
@@ -29,3 +22,30 @@
   url: "https://newseal.co.za"
   description: Created A website New Seal <a href="http://newseal.co.za">newseal.co.za</a> and made logo.
 
+# New Seal
+- project: New Blindz
+  role: Designed and Developed 
+  duration: 2018
+  url: "https://newblindz.co.za"
+  description: Created A website New newblindz <a href="http://newblindz.co.za">newblindz.co.za</a>.
+
+  #Face detection
+- project: Face detection
+  role: Designed and Developed 
+  duration: 2018
+  url: "https://smart-detect.herokuapp.com/"
+  description: React App that detects the location of a face in an image with a login and register form.
+
+ #Star Wars App
+- project: Star Wars App
+  role: Designed and Developed 
+  duration: 2018
+  url: "https://dirk005.github.io/Star-wars-swapi/"
+  description: React App that gets Star Wars characters from an API and lets you search the characters.
+
+#Gradient Gen
+- project: Gradient Gen
+  role: Designed and Developed 
+  duration: 2018
+  url: "https://dirk005.github.io/background-generator/"
+  description: Website that you can select your own colors to create gradient background or create with random colors.
