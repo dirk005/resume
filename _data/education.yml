@@ -12,3 +12,11 @@
   # awards: 
   summary: Learned Web design and Development.
 
+  # Degree
+- degree: Web Development
+  uni: Udemy
+  year: 2018
+  # awards: 
+  summary: The Complete Web Developer in 2018.HTML5, CSS, Bootstrap 4, Javascript (ES6/ES7/ES8), React + Redux, Git + Github, Node.js, Express.js, NPM, PostgresSQL, SQL
+
+
