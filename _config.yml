@@ -14,11 +14,11 @@ sass:
 resume_avatar:                  "true"
 
 resume_name:                    "Dirk Jansen van Rensburg"
-resume_title:                   "Web Developer"
-resume_contact_email:           "dirk@focuswebdesign.co.za"
+resume_title:                   "Full Stack Web Developer"
+resume_contact_email:           "dirkvanrensburg5@gmail.com"
 resume_contact_telephone:       "(+27) 082-546-1005 "
 resume_contact_address:         "Johannesburg, SA"
-resume_header_contact_info: "Johannesburg, SA |(+27) 082-546-1005 | dirk@focuswebdesign.co.za"
+resume_header_contact_info: "Johannesburg, SA |(+27) 082-546-1005 | dirkvanrensburg5@gmail.com"
 resume_header_intro: "<p>Hi, I’m Dirk Jansen van Rensburg. I’m a Full Stack Web Developer. I have been doing Web development since Sep 2017 and created a web design company Focus Web Design to do web development part time. I push myself t learn new skills every day by doing
         courses in the field. My full-time job is to develop and maintain a hospital system for Arwyp Medical Centre using BASIC programming language for the past 8 years. My passion for web development came when we started integrating with dynamic programming
         into web development for the hospital system where I have created multiple sites for the Hospital link to a web server.</p>"
@@ -50,7 +50,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/dirk-jansen-van-rensburg-597547120/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://focuswebdesign.co.za"
+  resume_website_url:           "https://dirk005.github.io/Portfolio/"
 resume_print_social_links:      true
 
 # Design settings
